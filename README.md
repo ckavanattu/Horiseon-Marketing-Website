@@ -17,4 +17,4 @@
 * https://ckavanattu.github.io/Horiseon-Marketing-Website/
 
 ## Sample Image of Website below
-! [Sample Website](Horiseon Sample Image.png)
+![Sample Website](Image.png)
